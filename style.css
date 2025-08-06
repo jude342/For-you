@@ -2,7 +2,7 @@ html {
     background-color: pink;
     background-image: url("elsa.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 html::before{
     content: "";
@@ -59,3 +59,4 @@ body {
     cursor: pointer;
 
 }
+
