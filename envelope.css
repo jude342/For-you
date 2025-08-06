@@ -59,7 +59,7 @@ body{
 .envelope > .letter {
   position: absolute;
   right: 20%;
-  bottom: 0;
+  bottom: 5px;
   width: 54%;
   height: 80%;
   background: var(--primary);
@@ -73,7 +73,7 @@ body{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: var(--txt-color);
   text-align: left;
-  font-size: 6.5px;
+  font-size: 5px;
   
 }
 .heart {
@@ -131,3 +131,4 @@ body{
   position: absolute;
 
 }
+
